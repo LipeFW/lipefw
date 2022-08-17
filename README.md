@@ -8,7 +8,7 @@ Here are some infos:
 - 🌱 C# Developer
 - ⚡ React Student
 
-### Ferramentas e Tecnologias
+### Skills and Stacks
 
 <div align="left">
 <img alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
