@@ -1,4 +1,5 @@
-## Hi there, welcome to my profile 👋
+# Hi there, welcome to my profile 👋
+
 ### My name is Felipe but you can also call me Weber!
 
 
@@ -19,6 +20,9 @@ Here are some infos:
 <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
 <img alt="Sourcetree" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" width="50" height="50" />
 </div>
+
+# 
+<img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lipefw&show_icons=true&theme=react&include_all_commits=true&count_private=true&show_owner=false"/> <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeFW&layout=compact&langs_count=4&theme=react"/>
           
           
           
