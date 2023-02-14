@@ -5,8 +5,7 @@
 
 Here are some infos:
 
-- 🔭 I’m currently working on AmbevTech
-- 🌱 C# Developer
+- 🌱 I am a C# Developer
 - ⚡ React Student
 
 ### Skills and Stacks
