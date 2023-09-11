@@ -7,6 +7,7 @@ Here are some infos:
 
 - 🌱 I am a C# Developer
 - ⚡ React Student
+- ⚡ Angular Student
 
 ### Skills and Stacks
 
@@ -18,6 +19,9 @@ Here are some infos:
 <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
 <img alt="Sourcetree" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" width="50" height="50" />
+<img alt="AngularJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
+<img alt="BitBucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="50" height="50" />
+          
 </div>
 
 # 
